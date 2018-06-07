@@ -30,4 +30,8 @@ Another Approach Would Be To Just Paste The Url Like So -> https://www.google.co
 
 A Fun Google Logo Image:
 
-![](google-logo.png)
+![A Fun Google Logo](google-logo.png)
+
+Here's A Fun Google Search Page:
+
+<img src="google-searchpage.jpg" height="660" width="238" title="A Fun Looking Google Search Page"/>
