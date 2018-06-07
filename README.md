@@ -34,4 +34,4 @@ A Fun Google Logo Image:
 
 Here's A Fun Google Search Page:
 
-<img src="google-searchpage.jpg" height="660" width="238" title="A Fun Looking Google Search Page"/>
+<img src="google-searchpage.jpg" height="238" width="660" title="A Fun Looking Google Search Page"/>
