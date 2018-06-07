@@ -30,4 +30,4 @@ Another Approach Would Be To Just Paste The Url Like So -> http://www.google.com
 
 A Fun Google Logo Image:
 
-![Fun Google Logo](google-loog.png)
+![](google-logo.png)
