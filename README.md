@@ -26,7 +26,7 @@ Using The Tilde Character Strikes Through A Word(s) ~Strikethrough~
 
 Head Over To [Google.](http://www.google.com "Google")
 
-Another Approach Would Be To Just Paste The Url Like So -> http://www.google.com
+Another Approach Would Be To Just Paste The Url Like So -> https://www.google.com
 
 A Fun Google Logo Image:
 
