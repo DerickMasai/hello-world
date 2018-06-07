@@ -1,3 +1,3 @@
-# Hello World
+###H1 Hello World
 The time-honored tradition of always starting a new programming challenge with 'Hello World'.
-*Emphasis*
+*The * Symbol Used This Way Lays Emphasis To A Given Word(s)*
