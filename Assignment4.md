@@ -1,4 +1,4 @@
-#A H1 Header :point_up:
+#A H1 Header :collision:
 
 There is some random text after this statement. How promotion excellent curiosity yet attempted happiness. Gay prosperous impression had conviction. For every delay death ask style. Me mean able my by in they. Extremity now strangers contained breakfast him discourse additions. Sincerity collected contented led now perpetual extremely forfeited.
 
@@ -11,4 +11,3 @@ This is it's URL here -> http://www.randomtextgenerator.com
 _And this is an italicised one._
 
 **A bold statement looks a little bit like this.**
-
