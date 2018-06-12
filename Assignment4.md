@@ -32,13 +32,14 @@ Take a look at these 2 beautiful wallpaper images using the default Github markd
 ![Mountain With Blue Background](1.jpg)
 
 
-![Silhouette Street With Red Background](2.png)
+<a href="https://bit.ly/2HHsZCJ">![Silhouette Street With Red Background](2.png)</a>
 
 
 Using HTML tags gives one more control over the image's presentation
 
 <img src="3.png" alt="Gorge With Beautiful Purple Sky" title="Gorge With Beautiful Purple Sky" height="250" width="400"/>
 
+Clicking the image below takes you to the page containing the images :simple_smile:
 
 <img src="4.png" alt="Gorge With Beautiful Purple Sky" title="Gorge With Beautiful Purple Sky" height="250" width="400"/>
 
@@ -54,8 +55,8 @@ To be able to write code inline one needs to use apostrophes like so: '<html>...
 - [x] Complete the project
 - [x] Look for a UI/UX designer
 
-@FrancisAmenya This is how the If Statement looks like
-```PHP
+@FrancisAmenya This is how the If Statement syntax looks like
+```Java
 if(arg){
    //code goes here
  }else if{
@@ -65,4 +66,8 @@ if(arg){
  }
  ```
  
+ ## Differences Between Facebook and Twitter
  
+ Facebook | Twitter
+ -------- | --------
+ Status   | Tweet
