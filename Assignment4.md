@@ -8,6 +8,8 @@ This is it's URL here -> http://www.randomtextgenerator.com
 
 *This is a randomly emphasised sentence.*
 
+Current price: ~$15~ $12
+
 _And this is an italicised one._
 
 **A bold statement looks a little bit like this.**
@@ -52,3 +54,15 @@ To be able to write code inline one needs to use apostrophes like so: '<html>...
 - [x] Complete the project
 - [x] Look for a UI/UX designer
 
+@FrancisAmenya This is how the If Statement looks like
+```PHP
+if(arg){
+   //code goes here
+ }else if{
+   //code goes here
+ }else{
+   //code goes here
+ }
+ ```
+ 
+ 
