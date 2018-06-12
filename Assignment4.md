@@ -21,7 +21,8 @@ _And this is an italicised one._
   
 ## Ordered list
   1. Ordered Item 1
-  2. Ordered Item 2
-  3. Ordered Item 3
-    1. Nested Ordered Item 1
-    1. Nested Ordered Item 2
+  1. Ordered Item 2
+  1. Ordered Item 3
+    1. Ordered Item 3a
+    1. Ordered Item 3b
+    
