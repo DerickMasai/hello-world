@@ -11,3 +11,17 @@ This is it's URL here -> http://www.randomtextgenerator.com
 _And this is an italicised one._
 
 **A bold statement looks a little bit like this.**
+
+##Unordered List
+* List Item 1
+* List Item 2
+* List Item 3
+  * Nested List Item 1
+  * Nested List Item 2
+  
+  ##Ordered list
+  1. Ordered Item 1
+  2. Ordered Item 2
+  3. Ordered Item 3
+    1. Nested Ordered Item 1
+    1. Nested Ordered Item 2
