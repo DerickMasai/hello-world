@@ -26,3 +26,29 @@ _And this is an italicised one._
     1. Ordered Item 3a
     1. Ordered Item 3b
     
+Take a look at these 2 beautiful wallpaper images using the default Github markdown:
+![Mountain With Blue Background](1.jpg)
+
+
+![Silhouette Street With Red Background](2.png)
+
+
+Using HTML tags gives one more control over the image's presentation
+
+<img src="3.png" alt="Gorge With Beautiful Purple Sky" title="Gorge With Beautiful Purple Sky" height="250" width="400"/>
+
+
+<img src="4.png" alt="Gorge With Beautiful Purple Sky" title="Gorge With Beautiful Purple Sky" height="250" width="400"/>
+
+To be able to write code inline one needs to use apostrophes like so: '<html>...</html>'
+
+## Incomplete Tasks
+
+- [ ] Make the site responsive
+- [ ] Streamline the code
+
+## Complete Tasks
+
+- [x] Complete the project
+- [x] Look for a UI/UX designer
+
