@@ -32,16 +32,16 @@ Take a look at these 2 beautiful wallpaper images using the default Github markd
 ![Mountain With Blue Background](1.jpg)
 
 
-<a href="https://bit.ly/2HHsZCJ">![Silhouette Street With Red Background](2.png)</a>
+![Silhouette Street With Red Background](2.png)</a>
 
 
 Using HTML tags gives one more control over the image's presentation
 
 <img src="3.png" alt="Gorge With Beautiful Purple Sky" title="Gorge With Beautiful Purple Sky" height="250" width="400"/>
 
-Clicking the image below takes you to the page containing the images :simple_smile:
+Clicking the image below takes you to the page containing the images :smile:
 
-<img src="4.png" alt="Gorge With Beautiful Purple Sky" title="Gorge With Beautiful Purple Sky" height="250" width="400"/>
+<a href="https://bit.ly/2HHsZCJ"><img src="4.png" alt="Gorge With Beautiful Purple Sky" title="Gorge With Beautiful Purple Sky" height="250" width="400"/></a>
 
 To be able to write code inline one needs to use apostrophes like so: '<html>...</html>'
 
