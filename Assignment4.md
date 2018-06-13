@@ -32,7 +32,7 @@ Take a look at these 2 beautiful wallpaper images using the default Github markd
 ![Mountain With Blue Background](1.jpg)
 
 
-![Silhouette Street With Red Background](2.png)</a>
+![Silhouette Street With Red Background](2.png)
 
 
 Using HTML tags gives one more control over the image's presentation
